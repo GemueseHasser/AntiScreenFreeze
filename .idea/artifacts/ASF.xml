@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ASF">
+    <output-path>$PROJECT_DIR$/out/artifacts/ASF</output-path>
+    <root id="archive" name="AntiScreenFreeze.jar">
+      <element id="module-output" name="AntiScreenFreeze" />
+    </root>
+  </artifact>
+</component>
